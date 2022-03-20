@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><preferences stamp="2">
+	<com.4d>
+		<web>
+			<standalone_server>
+				<configuration port_number="80"/>
+				<webservices>
+					<server name="A_WebService"/>
+				</webservices>
+				<rest launch_at_startup="true"/>
+			</standalone_server>
+		</web>
+	</com.4d>
+</preferences>

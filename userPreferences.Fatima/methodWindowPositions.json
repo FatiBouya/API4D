@@ -1,0 +1,32 @@
+{
+	"Sources/Classes/Task.4dm": {
+		"left": 0,
+		"top": 78,
+		"width": 1366,
+		"height": 627
+	},
+	"Sources/TableForms/2/input/ObjectMethods/field_startingDate.4dm": {
+		"left": -83,
+		"top": 127,
+		"width": 1366,
+		"height": 486
+	},
+	"Sources/TableForms/2/input/ObjectMethods/field_endingDate.4dm": {
+		"left": -83,
+		"top": 127,
+		"width": 1366,
+		"height": 486
+	},
+	"Sources/TableForms/2/input/ObjectMethods/PopupDate1.4dm": {
+		"left": -83,
+		"top": 127,
+		"width": 1366,
+		"height": 486
+	},
+	"Sources/TableForms/2/input/ObjectMethods/PopupDate.4dm": {
+		"left": -83,
+		"top": 127,
+		"width": 1366,
+		"height": 486
+	}
+}

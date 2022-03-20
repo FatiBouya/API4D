@@ -1,0 +1,44 @@
+{
+	"Sources/Methods/Methode1.4dm": {
+		"left": 2,
+		"top": 140,
+		"width": 1366,
+		"height": 512
+	},
+	"Sources/Classes/Task.4dm": {
+		"left": 0,
+		"top": 109,
+		"width": 1366,
+		"height": 685
+	},
+	"Sources/TableForms/2/Input/ObjectMethods/field_startingDate.4dm": {
+		"left": 2,
+		"top": 140,
+		"width": 1366,
+		"height": 512
+	},
+	"Sources/TableForms/2/Input/ObjectMethods/field_endingDate.4dm": {
+		"left": 2,
+		"top": 140,
+		"width": 1366,
+		"height": 512
+	},
+	"Sources/TableForms/2/Input/ObjectMethods/PopupDate.4dm": {
+		"left": 2,
+		"top": 140,
+		"width": 1366,
+		"height": 512
+	},
+	"Sources/TableForms/2/Input/ObjectMethods/PopupDate1.4dm": {
+		"left": 2,
+		"top": 140,
+		"width": 1366,
+		"height": 512
+	},
+	"Sources/TableForms/2/Input/ObjectMethods/Variable.4dm": {
+		"left": 0,
+		"top": 109,
+		"width": 1366,
+		"height": 685
+	}
+}

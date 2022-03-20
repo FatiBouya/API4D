@@ -1,0 +1,78 @@
+{
+	"editors": [
+		{
+			"type": "method",
+			"id": 2147483647,
+			"codeDescriptor": {
+				"type": 11,
+				"className": "Task",
+				"methodPath": "/SOURCES/Classes/Task.4dm"
+			}
+		},
+		{
+			"type": "explorer"
+		},
+		{
+			"type": "form",
+			"id": 219,
+			"table": 2,
+			"formName": "input"
+		},
+		{
+			"type": "method",
+			"id": 2147483641,
+			"codeDescriptor": {
+				"type": 2,
+				"table": 2,
+				"formName": "input",
+				"objectName": "PopupDate",
+				"methodPath": "/SOURCES/TableForms/2/input/ObjectMethods/PopupDate.4dm"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483642,
+			"codeDescriptor": {
+				"type": 2,
+				"table": 2,
+				"formName": "input",
+				"objectName": "PopupDate1",
+				"methodPath": "/SOURCES/TableForms/2/input/ObjectMethods/PopupDate1.4dm"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483643,
+			"codeDescriptor": {
+				"type": 2,
+				"table": 2,
+				"formName": "input",
+				"objectName": "field_endingDate",
+				"methodPath": "/SOURCES/TableForms/2/input/ObjectMethods/field_endingDate.4dm"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483644,
+			"codeDescriptor": {
+				"type": 2,
+				"table": 2,
+				"formName": "input",
+				"objectName": "field_startingDate",
+				"methodPath": "/SOURCES/TableForms/2/input/ObjectMethods/field_startingDate.4dm"
+			}
+		},
+		{
+			"type": "form",
+			"id": 220,
+			"table": 2,
+			"formName": "Output"
+		},
+		{
+			"type": "structure"
+		},
+		{
+			"type": "toolbox"
+		}
+	]
+}

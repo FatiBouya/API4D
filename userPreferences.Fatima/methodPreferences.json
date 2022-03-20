@@ -1,0 +1,47 @@
+{
+	"Sources/Classes/Task.4dm": {
+		"startSelection": 11,
+		"endSelection": 11,
+		"firstSelectedLine": 15,
+		"lastSelectedLine": 15,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-03-19T23:48:49.820Z"
+	},
+	"Sources/TableForms/2/input/ObjectMethods/field_startingDate.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-03-19T23:29:27.292Z"
+	},
+	"Sources/TableForms/2/input/ObjectMethods/field_endingDate.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-03-19T23:30:00.850Z"
+	},
+	"Sources/TableForms/2/input/ObjectMethods/PopupDate1.4dm": {
+		"startSelection": 13,
+		"endSelection": 13,
+		"firstSelectedLine": 10,
+		"lastSelectedLine": 10,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-03-19T23:31:04.904Z"
+	},
+	"Sources/TableForms/2/input/ObjectMethods/PopupDate.4dm": {
+		"startSelection": 25,
+		"endSelection": 25,
+		"firstSelectedLine": 10,
+		"lastSelectedLine": 10,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-03-19T23:31:26.066Z"
+	}
+}

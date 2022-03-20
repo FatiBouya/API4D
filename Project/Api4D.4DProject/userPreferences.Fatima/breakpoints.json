@@ -1,0 +1,20 @@
+[
+	{
+		"line": 1,
+		"method": {
+			"type": 10,
+			"className": "Task",
+			"functionName": "update",
+			"methodPath": "/SOURCES/Classes/Task.4dm"
+		}
+	},
+	{
+		"line": 1,
+		"method": {
+			"type": 10,
+			"className": "Task",
+			"functionName": "getAll",
+			"methodPath": "/SOURCES/Classes/Task.4dm"
+		}
+	}
+]

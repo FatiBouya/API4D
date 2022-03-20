@@ -1,0 +1,11 @@
+[
+	{
+		"line": 3,
+		"method": {
+			"type": 10,
+			"className": "Task",
+			"functionName": "getTask",
+			"methodPath": "/SOURCES/Classes/Task.4dm"
+		}
+	}
+]

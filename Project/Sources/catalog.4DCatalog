@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="Api4D" uuid="095A70C05A7A1C4F98665106CD345593" collation_locale="fr">
+	<schema name="DEFAULT_SCHEMA"/>
+	<table name="(Table_1)" uuid="424B260F10EFAB48A52D3352D79A1588" id="1" hide_in_REST="true">
+		<field name="ID" uuid="659F13AFF0CE9146AB9A1153511FB279" type="4" unique="true" autosequence="true" not_null="true" id="1"/>
+		<primary_key field_name="ID" field_uuid="659F13AFF0CE9146AB9A1153511FB279"/>
+		<table_extra trashed="true">
+			<editor_table_info fields_ordering="1" displayable_fields_count="6">
+				<color red="255" green="255" blue="255" alpha="0"/>
+				<coordinates left="329" top="98" width="120" height="167.33203125"/>
+			</editor_table_info>
+		</table_extra>
+	</table>
+	<table name="Task" uuid="41BBA5DD0245EA4094CA95C568E38483" id="2">
+		<field name="ID" uuid="8BE4C0EBA6B3644BB531F5270C0834DA" type="4" unique="true" autosequence="true" not_null="true" id="1"/>
+		<field name="name" uuid="098B78DD0D1DD84A9F847820959A7FC5" type="10" limiting_length="255" id="2"/>
+		<field name="startingDate" uuid="A5371E3DC7EE6C469D020B90A0CAB9F3" type="8" never_null="true" id="3"/>
+		<field name="endingDate" uuid="7C9E272E4FCF664B8D61E833E4F3A5A4" type="8" never_null="true" id="4"/>
+		<field name="formationName" uuid="0483BA8661D7424884C6247E462A4603" type="10" limiting_length="255" never_null="true" id="5"/>
+		<field name="done" uuid="4DA8D070F616D247875BC49187C8BB2E" type="1" never_null="true" id="6"/>
+		<field name="starting" uuid="8A3D49E30AC70C42B5365C9DFDA91EBA" type="1" never_null="true" id="7"/>
+		<primary_key field_name="ID" field_uuid="8BE4C0EBA6B3644BB531F5270C0834DA"/>
+		<table_extra input_form="input" output_form="Output">
+			<editor_table_info displayable_fields_count="9">
+				<color red="168" green="206" blue="226" alpha="255"/>
+				<coordinates left="601" top="101" width="160" height="246.33203125"/>
+			</editor_table_info>
+		</table_extra>
+	</table>
+	<index kind="regular" unique_keys="true" uuid="29671205E1554F488C9CA432A7749CE1" type="7">
+		<field_ref uuid="659F13AFF0CE9146AB9A1153511FB279" name="ID">
+			<table_ref uuid="424B260F10EFAB48A52D3352D79A1588" name="(Table_1)"/>
+		</field_ref>
+	</index>
+	<index kind="regular" unique_keys="true" uuid="B43ED25EAE02524FBDB65F1564ADEFFF" type="1">
+		<field_ref uuid="8BE4C0EBA6B3644BB531F5270C0834DA" name="ID">
+			<table_ref uuid="41BBA5DD0245EA4094CA95C568E38483" name="Task"/>
+		</field_ref>
+	</index>
+	<base_extra __stringCompHash="icu:68.1.0" __keywordBuildingHash="icu:68.1.0"/>
+</base>
