@@ -1,6 +1,15 @@
 {
 	"editors": [
 		{
+			"type": "method",
+			"id": 2147483646,
+			"codeDescriptor": {
+				"type": 11,
+				"className": "Task",
+				"methodPath": "/SOURCES/Classes/Task.4dm"
+			}
+		},
+		{
 			"type": "explorer"
 		},
 		{
@@ -20,16 +29,7 @@
 		},
 		{
 			"type": "method",
-			"id": 2147483646,
-			"codeDescriptor": {
-				"type": 11,
-				"className": "Task",
-				"methodPath": "/SOURCES/Classes/Task.4dm"
-			}
-		},
-		{
-			"type": "method",
-			"id": 2147483635,
+			"id": 2147483638,
 			"codeDescriptor": {
 				"type": 2,
 				"table": 2,
@@ -40,7 +40,7 @@
 		},
 		{
 			"type": "method",
-			"id": 2147483636,
+			"id": 2147483639,
 			"codeDescriptor": {
 				"type": 2,
 				"table": 2,
@@ -51,7 +51,7 @@
 		},
 		{
 			"type": "method",
-			"id": 2147483637,
+			"id": 2147483640,
 			"codeDescriptor": {
 				"type": 2,
 				"table": 2,
@@ -62,7 +62,7 @@
 		},
 		{
 			"type": "method",
-			"id": 2147483638,
+			"id": 2147483641,
 			"codeDescriptor": {
 				"type": 2,
 				"table": 2,

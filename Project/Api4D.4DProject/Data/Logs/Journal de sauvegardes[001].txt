@@ -1,0 +1,11 @@
+*** Full Backup
+Creating archive : C:\Users\Fatima\Desktop\4Dlogiciels\Api4D\Project\Api4D.4DProject\data[0001].4BK
+Creating log backup : C:\Users\Fatima\Desktop\4Dlogiciels\Api4D\Project\Api4D.4DProject\data[0000].4BL
+Attachment(s): 
+	C:\Users\Fatima\Desktop\4Dlogiciels\Api4D\Project\Api4D.4DProject\Data\data.4DSyncHeader [NOT FOUND]
+	C:\Users\Fatima\Desktop\4Dlogiciels\Api4D\Project\Api4D.4DProject\Data\data.4DSyncData [NOT FOUND]
+	C:\Users\Fatima\Desktop\4Dlogiciels\Api4D\Project\Api4D.4DProject\Data\data.4DIndx [OK]
+Scheduled 00/00/0 00:00
+Starting 21/03/2022 00:11
+Ending 21/03/2022 00:11
+

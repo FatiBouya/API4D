@@ -1,0 +1,29 @@
+{
+	"C:\\Users\\Fatima\\Desktop\\4Dlogiciels\\Api4D\\Project\\Api4D.4DProject\\Project\\Api4D.4DProject.4DProject": [
+		{
+			"backupPath": "C:\\Users\\Fatima\\Desktop\\4Dlogiciels\\Api4D\\Project\\Api4D.4DProject\\data[0001].4BK",
+			"structurePath": "C:\\Users\\Fatima\\Desktop\\4Dlogiciels\\Api4D\\Project\\Api4D.4DProject\\Project\\Api4D.4DProject.4DProject",
+			"dataPath": "C:\\Users\\Fatima\\Desktop\\4Dlogiciels\\Api4D\\Project\\Api4D.4DProject\\Data\\data.4DD",
+			"logPath": "C:\\Users\\Fatima\\Desktop\\4Dlogiciels\\Api4D\\Project\\Api4D.4DProject\\data[0000].4BL",
+			"startingDate": "2022-03-20T23:11:04.923Z",
+			"endingDate": "2022-03-20T23:11:04.923Z",
+			"scheduledDate": "2022-03-20T23:11:04.923Z",
+			"backupNumber": 1,
+			"duration": 2645,
+			"attachments": [
+				{
+					"attachmentPath": "C:\\Users\\Fatima\\Desktop\\4Dlogiciels\\Api4D\\Project\\Api4D.4DProject\\Data\\data.4DSyncHeader",
+					"found": false
+				},
+				{
+					"attachmentPath": "C:\\Users\\Fatima\\Desktop\\4Dlogiciels\\Api4D\\Project\\Api4D.4DProject\\Data\\data.4DSyncData",
+					"found": false
+				},
+				{
+					"attachmentPath": "C:\\Users\\Fatima\\Desktop\\4Dlogiciels\\Api4D\\Project\\Api4D.4DProject\\Data\\data.4DIndx",
+					"found": true
+				}
+			]
+		}
+	]
+}

@@ -1,13 +1,13 @@
 {
-	"Sources/TableForms/2/Input/form.4DForm": {
+	"Sources/TableForms/2/Output/form.4DForm": {
 		"left": 0,
 		"top": 109,
 		"width": 1366,
 		"height": 685
 	},
-	"Sources/TableForms/2/Output/form.4DForm": {
+	"Sources/TableForms/2/Input/form.4DForm": {
 		"left": 0,
-		"top": 20,
+		"top": 109,
 		"width": 1366,
 		"height": 685
 	}

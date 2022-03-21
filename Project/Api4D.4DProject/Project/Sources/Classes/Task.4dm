@@ -40,4 +40,6 @@ exposed Function update
 	$task.name:=$1.name
 	$task.save()
 	$0:=$task
-	
+exposed Function github
+	C_TEXT:C284($0)
+	ALERT:C41("hello word")
